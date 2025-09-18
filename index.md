@@ -74,3 +74,10 @@ layout: default
 *   **局限：** 套餐单价通常比物理SIM贵；设备兼容性要确认；完全依赖手机设置（丢了手机更麻烦点）。
 *   **购买贴士：**
     *   **官方渠道：** Orange和Vodaf
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Romania SIM 卡购买与激活指南](https://faciylike.github.io/romania-sim-guides)
